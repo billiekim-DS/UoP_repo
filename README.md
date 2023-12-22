@@ -1,12 +1,12 @@
 # UoP_repo
 A collection of personal and group projects (UoP MS Data Science)
 
-#### *Notebooks using R:*
+#### *Notebooks in R:*
 - analytics_computing_report1
 - analytics_computing_report2
 - group_project1
 
-#### *Notebooks using Python:*
+#### *Notebooks in Python:*
 - analytics_computing_report3
 - analytics_computing_report4
 - analytics_computing_report5
