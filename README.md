@@ -12,3 +12,6 @@ Collection of personal and group projects (UoP MS Data Science)
 - analytics_computing_report5
 - group_project2
 - group_project3
+
+
+[analytics_computing_report1](analytics_computing_report1.ipynb)
