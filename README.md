@@ -1,5 +1,5 @@
 # UoP_repo
-Collection of personal and group projects (UoP MS Data Science)
+Collection of Personal and Group Projects (UoP MS Data Science)
 
 #### *Notebooks in R:*
 - [analytics_computing_report1](analytics_computing_report1.ipynb)
